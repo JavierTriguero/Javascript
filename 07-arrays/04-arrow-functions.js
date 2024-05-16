@@ -1,6 +1,6 @@
-function hola(){
-    return 'Hola mundo';
-}
+// function hola(){
+//     return 'Hola mundo';
+// }
 
 const hola = mensaje => mensaje + 'Hola mundo';
 
