@@ -11,7 +11,7 @@ let todosActivos = usuarios.every(u=>{
     return u.activo;
 });
 
-let algunoActivo=usuarios.some(u=> {
+let algunActivo=usuarios.some(u=> {
     console.log(u.id);
     return u.activo;
 
