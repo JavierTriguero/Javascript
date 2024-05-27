@@ -5,5 +5,5 @@ function ordenar(text,fn){
                         .sort()
                         .join('');
     fn(resultado);
-}
+} 
 ordenar('hola mundo',console.log);
